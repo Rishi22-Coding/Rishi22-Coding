@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1607352904/wfsdk12nyus/vuppnxlmubnufplj5tfo/codingimage.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saptarshi Patra aka [Rishi22-Coding]</h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Competetive Programmer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
