@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Rishi22-Coding)**
 
-- 🚀 Competetive Coder at **[Code-Chef](https://www.codechef.com/users/coder_rishi22)**
+- 🚀 Competitive Coder at **[Code-Chef](https://www.codechef.com/users/coder_rishi22)**
 
 - 👯 Music Enthiusiast **Drummer. I Play Drums**
 
