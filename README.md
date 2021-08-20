@@ -10,7 +10,7 @@
 
 - 🌱 Practising **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Open Source Contributor on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Rishi22-Coding)**
 
